@@ -1,0 +1,2 @@
+payment_id,customer_id,invoice_number,amount
+EDGE-P1,HARBOR,EDGE-001,125.00
